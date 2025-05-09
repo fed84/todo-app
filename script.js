@@ -84,10 +84,10 @@ let array = [];
       let imageIcon = document.querySelector(".sun-image");
       if (imageIcon) {
         if (body.classList.contains("light-body")) {
-          imageIcon.src = "images/icon-moon.svg"; 
+          imageIcon.src = "todo-list-app/images/icon-moon.svg"; 
           imageIcon.alt = "Moon Icon"; 
         } else {
-          imageIcon.src = "images/icon-sun.svg"; 
+          imageIcon.src = "todo-list-app/images/icon-sun.svg"; 
           imageIcon.alt = "Sun Icon"; 
         }
       }
