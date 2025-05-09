@@ -1,5 +1,5 @@
 .dark-body {
-    background-image: url(images/bg-desktop-dark.jpg);
+    background-image: url(todo-list-app/images/bg-desktop-dark.jpg);
     background-repeat: no-repeat;
     height: 100vh;
     background-size: contain;
@@ -12,7 +12,7 @@
     transition: all 1s;
   }
   .light-body {
-    background-image: url(images/bg-desktop-light.jpg);
+    background-image: url(todo-list-app/images/bg-desktop-light.jpg);
     background-color: hsl(0, 0%, 98%);
   }
   .all {
